@@ -1,0 +1,10 @@
+{
+  "name": "@king-service/KingService-e2e",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "implicitDependencies": [
+      "@king-service/KingService"
+    ]
+  }
+}
